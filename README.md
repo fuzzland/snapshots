@@ -6,7 +6,8 @@ Sync your Reth archive nodes in hours, instead of weeks, with our snapshots.
 **Size**: 4.36TB  
 **Extracted Size**: 6.41TB  
 **Latest Block**: 40817260  
-**Path**: https://snapshots.fuzz.land/bsc.tar.gz
+**Path**: https://snapshots.fuzz.land/bsc.tar.gz  
+**Checksum**: `937fc52c7318ce4bc73315ffec67fa1d`
 
 **Instructions**
 
